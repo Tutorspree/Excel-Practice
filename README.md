@@ -43,7 +43,7 @@ The Explanatory Data Analysis (EDA) for Nigeria's population data from 2010 to 2
 
 ### Methods and Tools Used:
 
-"Data Visualization": Line charts, bar graphs, and heat maps to represent population trends and regional variations.
+Data Visualization: Line charts, bar graphs, and heat maps to represent population trends and regional variations.
 Statistical Analysis: Descriptive statistics to summarize the central tendency, dispersion, and shape of the dataset’s distribution.
 Correlation Analysis: Examining the relationship between population growth and other socio-economic factors.
 
