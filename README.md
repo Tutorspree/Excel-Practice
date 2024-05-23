@@ -12,7 +12,7 @@
 
 This data analysis project aims to visualize the population dynamics of Nigeria from 2010 to 2024. Through this visualization, we seek to gain insights into the trends and patterns of Nigeria's population growth and how various factors have influenced these dynamics over the years. The analysis provides a comprehensive view of the population changes and highlights key influences on the demographic shifts observed during this period.
 
-![Dashboard](Nigeria Dashboard 1.png)
+![](Nigeria Dashboard 1.png)
 ![Nigeria Dashboard 1](https://github.com/Tutorspree/Excel-Practice/assets/156625383/f0c6a96d-7a2f-4ad4-bb9a-010d0ace078a)
 
 
